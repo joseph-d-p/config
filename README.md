@@ -17,3 +17,11 @@ Configuration file for vim editor.
 
 ### Theme:
 - Oceanic Next - https://github.com/mhartington/oceanic-next
+
+## [.eslintrc.js](https://github.com/joseph-d-p/config/blob/master/.eslintrcjs)
+
+Configuration file for eslint. Extends [eslint-config-react-native-community](https://www.npmjs.com/package/@react-native-community/eslint-config).
+
+### Dev Dependencies for React:
+- eslint-plugin-react: https://www.npmjs.com/package/eslint-plugin-react
+- eslint-plugin-react-hooks: https://www.npmjs.com/package/eslint-plugin-react-hooks
