@@ -25,3 +25,10 @@ Configuration file for eslint. Extends [eslint-config-react-native-community](ht
 ### Dev Dependencies for React:
 - eslint-plugin-react: https://www.npmjs.com/package/eslint-plugin-react
 - eslint-plugin-react-hooks: https://www.npmjs.com/package/eslint-plugin-react-hooks
+
+## [.prettierrc](https://github.com/joseph-d-p/config/blob/master/.prettierrc)
+
+Configuration file for prettier.
+
+### Dev Dependencies for Prettier/React:
+- eslint-config-prettier-react: https://www.npmjs.com/package/eslint-config-prettier-react

@@ -3,7 +3,8 @@ module.exports = {
   extends: [
     "@react-native-community",
     "eslint:recommended",
-    "plugin:react/recommended"
+    "plugin:react/recommended",
+    "prettier-react"
   ],
   plugins: ["react", "react-hooks"],
   rules: {
