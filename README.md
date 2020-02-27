@@ -3,7 +3,7 @@ Contains configuration for properly linting React and formatting code using vim 
 
 Setting React default editor
 ```bash
-export REACT_EDTIOR=vim
+export REACT_EDITOR=vim
 ```
 
 ## [.vimrc](https://github.com/joseph-d-p/config/blob/master/.vimrc)
@@ -32,3 +32,12 @@ Configuration file for prettier.
 
 ### Dev Dependencies for Prettier/React:
 - eslint-config-prettier-react: https://www.npmjs.com/package/eslint-config-prettier-react
+
+## [.mongorc.js](https://github.com/joseph-d-p/config/blob/master/.mongorc.js)
+
+Configuration for MongoDB.
+
+To make use of `vim` when modifying inside `mongo` shell.
+```
+export EDITOR=vim mongo
+```
