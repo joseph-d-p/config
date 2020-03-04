@@ -1,7 +1,8 @@
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/joseph-d-p/personal-stack)
+
+
 # config 
 Contains configurations for tech stack used.
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/joseph-d-p/personal-stack)
 
 Setting React default editor
 ```bash
