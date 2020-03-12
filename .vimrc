@@ -38,6 +38,7 @@ Plugin 'git://git.wincent.com/command-t.git'
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'dense-analysis/ale'
 Plugin 'mhartington/oceanic-next'
+Plugin 'jparise/vim-graphql'
 call vundle#end()            " required
 
 syntax enable
